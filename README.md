@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 A QR code that directs you to the Frontend Mentor website.
 
 ### Links
-- Live Site URL: [Add live site URL here](https://david-pinhasov.github.io/Frontend-Mentor/)
+- Live Site URL: (https://david-pinhasov.github.io/Frontend-Mentor/)
 
 ### Built with
 
